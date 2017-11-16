@@ -32,7 +32,7 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that the difference is that it uses way less typing than the for i in stride loop and it usees let statements, the same is that it doeas still use that for ___ in stride format of making loops making so it's not to different from anything we've ever done before.
 /*:
  Now, **remember to commit and push your work**.
  */
