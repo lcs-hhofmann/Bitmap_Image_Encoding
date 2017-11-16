@@ -51,8 +51,8 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
-// I notice that...
-// I know this because...
+// I notice that whenever a 0 shows up in the generated BitmapString it corresponds on the grid with a black square, and when a 1 shows up in the generated string it corresponds with a white square on the grid.
+// I know this because I looked at the code and the squares.
 /*:
  Now, **remember to commit and push your work**.
  */
